@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">My movie cafe!</string>
+    <string name="myrestaurant">!!welcome to my movie cafe!!</string>
+    <string name="find_restaurants">Click me!</string>
+    <string name="todo">TODO</string>
+    <string name="enter_zip_code">Enter Zip Code</string>
+    <string name="restaurants_near">Restaurants near</string>
+
+</resources>
